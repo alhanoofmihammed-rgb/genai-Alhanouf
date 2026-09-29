@@ -1,3 +1,5 @@
+## Reference Links
+- SDAIA Academy GitHub: https://github.com/SDAIAAcademy
 # My Final Project
 ## Project Name
 Smart Assistant for Training Plan Organization Project by SDAIA Academy.
