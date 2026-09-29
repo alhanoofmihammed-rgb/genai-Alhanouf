@@ -1,6 +1,6 @@
 # My Final Project
 ## Project Name
-Smart Assistant for Training Plan Organization.
+Smart Assistant for Training Plan Organization Project by SDAIA Academy.
 ## Idea Selected
 Project Title:
 Smart Assistant for Training Plan Organization
